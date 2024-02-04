@@ -11,7 +11,7 @@ This project is a simple Spring MVC application that demonstrates CRUD (Create, 
 
 1. Clone the repository.
    ```bash
-   git clone https://github.com/yourusername/spring-crud-hibernate.git
+   git clone https://github.com/Hplekhan/Spring-Crud-Operation.git
 
 ### Technologies Used
     Spring Boot
